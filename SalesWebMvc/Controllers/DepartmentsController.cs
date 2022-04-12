@@ -1,11 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
+using SalesWebMvc.Models;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
-using SalesWebMvc.Models;
+using Microsoft.AspNetCore.Mvc.Rendering;
+
 
 namespace SalesWebMvc.Controllers
 {
